@@ -1,2 +1,7 @@
 # stm32f103c8t6
-一些基本模板
+oled显示
+四脚
+vcc   pb6
+gnd   pb7
+
+
